@@ -1,0 +1,27 @@
+1. WebDriverWait (element_to_be_clickable)
+2. Click on element
+3. Clear Field
+4. Send Keys
+5. Pytest runner
+6. Pytest ordering
+7. Logging
+8. Screenshot
+
+1. SelectBy (dropdown handling)
+2. Back and Refresh (driver methods)
+3. Get list of elements and click 1st element from the list
+4. Scroll webpage
+5. Get attribute of an element
+
+1. WebDriverWait (alert_is_present)
+2. Alert handling
+3. Get text on alert
+4. Get text on an element
+5. Element.is_displayed()
+
+Dictionary for table columns
+
+
+
+
+
